@@ -1,0 +1,52 @@
+.cover{
+    background-color: gray;
+}
+.wraps{
+    background-color: gray;
+    margin-top: 30px;
+}
+table, td, tr {
+    border: 1px solid black;
+    color:blue;
+    margin:30px;
+    width: 50%;
+
+}
+td{
+    padding: 10px
+}
+h1 {
+    margin-left: 350px;
+}
+ul {
+    font-size: 1rem;
+ }
+ li {
+    margin-bottom: 10px;
+ 
+ }
+ .container, .inner-container, .container-p{ 
+    overflow:auto;
+    background-color: grey;
+    margin-bottom: 30;
+    
+ }
+ img{
+    float: left;
+ }
+ a{
+    color:red;
+ }
+ .container-p{
+    font-size: 1rem;
+    margin-bottom: 10px;
+    line-height:2;
+ }
+ h2{
+    margin:2%;
+ }
+ .inner-container{
+    font-size:1rem;
+   #background-color: grey;
+    width: fit-content;
+ }
